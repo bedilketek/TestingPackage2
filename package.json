@@ -1,0 +1,22 @@
+{
+    "name": "com.romezos.testingpackage2",
+    "version": "1.0.0",
+    "displayName": "Testing Package 2",
+    "description": "This is an example package 2",
+    "unity": "2021.1",
+    "unityRelease": "0f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+        
+    },
+    "keywords": [
+        "romdev"
+    ],
+    "author": {
+        "name": "romezos",
+        "email": "bedilketek@gmail.com",
+        "url": "https://www.unity3d.com"
+    }
+}
