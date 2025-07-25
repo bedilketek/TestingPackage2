@@ -1,0 +1,16 @@
+{
+    "name": "RomDev.TestingPackage2",
+    "rootNamespace": "",
+    "references": [
+        "GUID:28fd145c1513e5040bc6a584fb297964"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

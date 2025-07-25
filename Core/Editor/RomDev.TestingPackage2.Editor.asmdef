@@ -1,0 +1,18 @@
+{
+    "name": "RomDev.TestingPackage2.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f04c59e105734924690e0a3fa73274e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
